@@ -1,0 +1,4 @@
+#article-toc { border:2px solid #ece2ff;padding:20px 20px 10px;border-radius: 5px; }
+.toc-title { font-weight:bold;font-size: 30px; }
+.toc-list { padding:0;padding:0;display: block;width: 300px;margin:20px auto 20px 0;margin-left: 0;font-weight: bold;font-size: 12px; }
+.toc-item { list-style:none !important;border-left:3px solid #dadada;margin:0; }
