@@ -43,3 +43,7 @@ function fnCreteToc() {
         }
     }
 }
+
+window.onload = function(){
+    fnCreateToc();
+}
